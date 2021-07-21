@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "524829913441",
+    "project_id": "shine-of-coins-601fb",
+    "storage_bucket": "shine-of-coins-601fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524829913441:android:e88ea5234a96c645131520",
+        "android_client_info": {
+          "package_name": "com.example.travel_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524829913441-j8n4l1o1u9f9mh75f0833hkc4rvt60rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bYG0Mnk29_LZuIcPd9cp4MscsC705gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524829913441-j8n4l1o1u9f9mh75f0833hkc4rvt60rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524829913441:android:7eccad638a2892a5131520",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524829913441-j8n4l1o1u9f9mh75f0833hkc4rvt60rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bYG0Mnk29_LZuIcPd9cp4MscsC705gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524829913441-j8n4l1o1u9f9mh75f0833hkc4rvt60rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
