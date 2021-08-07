@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">524829913441-j8n4l1o1u9f9mh75f0833hkc4rvt60rk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">524829913441</string>
+    <string name="google_api_key" translatable="false">AIzaSyB7bYG0Mnk29_LZuIcPd9cp4MscsC705gs</string>
+    <string name="google_app_id" translatable="false">1:524829913441:android:e88ea5234a96c645131520</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7bYG0Mnk29_LZuIcPd9cp4MscsC705gs</string>
+    <string name="google_storage_bucket" translatable="false">shine-of-coins-601fb.appspot.com</string>
+    <string name="project_id" translatable="false">shine-of-coins-601fb</string>
+</resources>
